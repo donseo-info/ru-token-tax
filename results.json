@@ -1,0 +1,214 @@
+{
+ "local": {
+  "OpenAI o200k (GPT-4o…GPT-6)": {
+   "tech.ru": 260,
+   "tech.en": 209,
+   "chat.ru": 208,
+   "chat.en": 185,
+   "official.ru": 173,
+   "official.en": 145,
+   "code.ru": 214,
+   "code.en": 198
+  },
+  "OpenAI cl100k (GPT-4, 3.5)": {
+   "tech.ru": 422,
+   "tech.en": 209,
+   "chat.ru": 377,
+   "chat.en": 185,
+   "official.ru": 322,
+   "official.en": 143,
+   "code.ru": 258,
+   "code.en": 196
+  },
+  "GigaChat 3": {
+   "tech.ru": 215,
+   "tech.en": 212,
+   "chat.ru": 176,
+   "chat.en": 186,
+   "official.ru": 137,
+   "official.en": 150,
+   "code.ru": 202,
+   "code.en": 200
+  },
+  "DeepSeek V3": {
+   "tech.ru": 296,
+   "tech.en": 209,
+   "chat.ru": 250,
+   "chat.en": 186,
+   "official.ru": 201,
+   "official.en": 145,
+   "code.ru": 225,
+   "code.en": 203
+  },
+  "Qwen 3": {
+   "tech.ru": 324,
+   "tech.en": 209,
+   "chat.ru": 259,
+   "chat.en": 185,
+   "official.ru": 237,
+   "official.en": 146,
+   "code.ru": 231,
+   "code.en": 196
+  },
+  "YandexGPT 5 Lite": {
+   "tech.ru": 197,
+   "tech.en": 211,
+   "chat.ru": 170,
+   "chat.en": 189,
+   "official.ru": 136,
+   "official.en": 150,
+   "code.ru": 215,
+   "code.en": 219
+  }
+ },
+ "api": {
+  "gpt-6-sol": {
+   "_base": 118,
+   "tech.ru": 260,
+   "tech.en": 209,
+   "chat.ru": 208,
+   "chat.en": 185,
+   "official.ru": 173,
+   "official.en": 145,
+   "code.ru": 214,
+   "code.en": 198
+  },
+  "gpt-5.6-luna": {
+   "_base": 121,
+   "tech.ru": 260,
+   "tech.en": 209,
+   "chat.ru": 208,
+   "chat.en": 185,
+   "official.ru": 173,
+   "official.en": 145,
+   "code.ru": 214,
+   "code.en": 198
+  },
+  "claude-opus-5": {
+   "_base": 30,
+   "tech.ru": 872,
+   "tech.en": 327,
+   "chat.ru": 830,
+   "chat.en": 285,
+   "official.ru": 785,
+   "official.en": 228,
+   "code.ru": 424,
+   "code.en": 231
+  },
+  "claude-sonnet-5": {
+   "_base": 119,
+   "tech.ru": 260,
+   "tech.en": 209,
+   "chat.ru": 208,
+   "chat.en": 185,
+   "official.ru": 173,
+   "official.en": 145,
+   "code.ru": 214,
+   "code.en": 198
+  },
+  "claude-opus-4-8": {
+   "_base": 121,
+   "tech.ru": 260,
+   "tech.en": 209,
+   "chat.ru": 208,
+   "chat.en": 185,
+   "official.ru": 173,
+   "official.en": 145,
+   "code.ru": 214,
+   "code.en": 198
+  },
+  "deepseek-v4-flash": {
+   "_base": 140,
+   "tech.ru": 296,
+   "tech.en": 209,
+   "chat.ru": 250,
+   "chat.en": 186,
+   "official.ru": 201,
+   "official.en": 145,
+   "code.ru": 225,
+   "code.en": 203
+  },
+  "glm-5.3": {
+   "_base": 120,
+   "tech.ru": 270,
+   "tech.en": 209,
+   "chat.ru": 205,
+   "chat.en": 185,
+   "official.ru": 186,
+   "official.en": 143,
+   "code.ru": 216,
+   "code.en": 196
+  },
+  "grok-4.7": {
+   "_base": 1355,
+   "tech.ru": 258,
+   "tech.en": 209,
+   "chat.ru": 214,
+   "chat.en": 185,
+   "official.ru": 162,
+   "official.en": 144,
+   "code.ru": 222,
+   "code.en": 211
+  },
+  "gemini-3.7-flash": {
+   "_base": 10,
+   "tech.ru": 259,
+   "tech.en": 210,
+   "chat.ru": 208,
+   "chat.en": 186,
+   "official.ru": 179,
+   "official.en": 144,
+   "code.ru": 232,
+   "code.en": 219
+  },
+  "kimi-k3": {
+   "_base": 97,
+   "tech.ru": 382,
+   "tech.en": 209,
+   "chat.ru": 336,
+   "chat.en": 186,
+   "official.ru": 284,
+   "official.en": 145,
+   "code.ru": 245,
+   "code.en": 197
+  },
+  "MiniMax-M3": {
+   "_base": "ERR HTTP Error 503: Service Unavailable",
+   "tech.ru": "ERR HTTP Error 503: Service Unavailable",
+   "tech.en": "ERR HTTP Error 503: Service Unavailable",
+   "chat.ru": "ERR HTTP Error 503: Service Unavailable",
+   "chat.en": "ERR HTTP Error 503: Service Unavailable",
+   "official.ru": "ERR HTTP Error 503: Service Unavailable",
+   "official.en": "ERR HTTP Error 503: Service Unavailable",
+   "code.ru": "ERR HTTP Error 503: Service Unavailable",
+   "code.en": "ERR HTTP Error 503: Service Unavailable"
+  },
+  "muse-spark-1.3": {
+   "_base": "ERR HTTP Error 503: Service Unavailable",
+   "tech.ru": "ERR HTTP Error 503: Service Unavailable",
+   "tech.en": "ERR HTTP Error 503: Service Unavailable",
+   "chat.ru": "ERR HTTP Error 503: Service Unavailable",
+   "chat.en": "ERR HTTP Error 503: Service Unavailable",
+   "official.ru": "ERR HTTP Error 503: Service Unavailable",
+   "official.en": "ERR HTTP Error 503: Service Unavailable",
+   "code.ru": "ERR HTTP Error 503: Service Unavailable",
+   "code.en": "ERR HTTP Error 503: Service Unavailable"
+  }
+ },
+ "chars": {
+  "tech.ru": 1013,
+  "tech.en": 1060,
+  "chat.ru": 808,
+  "chat.en": 927,
+  "official.ru": 748,
+  "official.en": 744,
+  "code.ru": 745,
+  "code.en": 755
+ },
+ "meta": {
+  "date": "2026-09-27",
+  "method_api": "usage(base+text) - usage(base), base=\"Ответь одним словом: ок.\", max_tokens=16",
+  "note": "claude-sonnet-5 и claude-opus-4-8 получены через шлюз, который, судя по всему, пересчитывает usage токенизатором o200k — не использовать как данные Claude",
+  "errors": "MiniMax-M3, muse-spark-1.3 — 503 в день замера"
+ }
+}

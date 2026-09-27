@@ -1,0 +1,8 @@
+[
+  {"model": "gpt-6-sol",        "base_url": "https://api.example.com/v1", "key_env": "LLM_API_KEY"},
+  {"model": "claude-opus-5",    "base_url": "https://api.example.com/v1", "key_env": "LLM_API_KEY"},
+  {"model": "gemini-3.7-flash", "base_url": "https://api.example.com/v1", "key_env": "LLM_API_KEY"},
+  {"model": "grok-4.7",         "base_url": "https://api.example.com/v1", "key_env": "LLM_API_KEY"},
+  {"model": "kimi-k3",          "base_url": "https://api.example.com/v1", "key_env": "LLM_API_KEY"},
+  {"model": "glm-5.3",          "base_url": "https://api.example.com/v1", "key_env": "LLM_API_KEY"}
+]

@@ -1,0 +1,5 @@
+tiktoken>=0.8
+tokenizers>=0.20
+sentencepiece>=0.2
+protobuf>=4
+matplotlib>=3.8
